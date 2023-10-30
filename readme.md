@@ -1,5 +1,7 @@
 # Wysa-API-server
 
+Hosted URL - https://wysa-api.vercel.app/
+
 ## To run the server
 
 1. Download the code
